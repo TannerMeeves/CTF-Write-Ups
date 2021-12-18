@@ -12,9 +12,9 @@ Upon receiving the list of wikipedia articles, the user must work on converting 
 
 ![Wikipedia Links](WikipediaLinks.png)
 
-> Note: Not all of these numbers are accurate. This was as far as I got.
+> Note: Not all of these numbers are accurate. This was as far as I got on my first attempt.
 
-The second involves the utilization of a python script. User Mohamed2del wrote a [script](https://github.com/Mohamed2del/Getting_into_Philosohpy) that performs the algorithm of clicking on the first link recursively of each page until arriving at the Philosophy page. This code needs to be updated to be python3 compatible, but then can then be used to quickly gather the same numbers achieved using the first method.
+The second involves the utilization of a python script. User Mohamed2del wrote a [script](https://github.com/Mohamed2del/Getting_into_Philosohpy) that performs the algorithm of clicking on the first link recursively of each page until arriving at the Philosophy page. This code needs to be updated to be python3 compatible, but can then be used to quickly gather the same numbers achieved using the first method.
 
 ## Understanding the Number Cipher
 
